@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-all-interface/springboot-all-interface.iml" filepath="$PROJECT_DIR$/springboot-all-interface/springboot-all-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-all-service/springboot-all-service.iml" filepath="$PROJECT_DIR$/springboot-all-service/springboot-all-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-all-web/springboot-all-web.iml" filepath="$PROJECT_DIR$/springboot-all-web/springboot-all-web.iml" />
+    </modules>
+  </component>
+</project>
